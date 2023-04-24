@@ -40,6 +40,7 @@ body {
     position: relative;
     display: inline-block;
     width: 100%;
+    min-width: 1800px;
 }
 
 .header--text {
@@ -86,7 +87,7 @@ body {
 .title {
     color: rgb(134, 97, 97);
     font-weight: bold;
-    font-size: 4.5rem;
+    font-size: 3.5rem;
 }
 
 .footer-text {

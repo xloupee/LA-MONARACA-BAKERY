@@ -51,13 +51,13 @@ body {
 
 .title {
     color: rgb(134, 97, 97);
-    font-size: 2.35rem;
+    font-size: 2.15rem;
     margin-top: 105px;
     font-weight: bold;
 }
 
 .info {
-    margin-left: 6rem;
+    margin-left: 3rem;
 }
 
 .container {
@@ -110,7 +110,7 @@ body {
     cursor: pointer;
     display: inline-block;
     font-weight: 600;
-    font-size: 18px;
+    font-size: 30px;
     padding: 0 18px;
     line-height: 50px;
     text-align: center;
