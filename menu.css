@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
 * {
     margin: 0;
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.5rem;
 }
 
 body {
@@ -16,16 +20,15 @@ body {
     justify-content: center;
 
 }
+
 .navbar {
     display: flex;
-    font-family: 'Great Vibes', cursive;
     background-color: white;
     padding-bottom: 22px;
     justify-content: space-between;
 }
 
 .title {
-    font-family: 'Grand Hotel', cursive;
     color: rgb(134, 97, 97)
 }
 
@@ -63,12 +66,10 @@ body {
 .menu--ul li{
     font-size: 1.15rem;
     margin-top: 25px;
-    font-family: 'Mabry-Regular' !important;
 }
 
-
 .menu--header {
-    font-family: 'Grand Hotel', cursive;
+    font-size: 2.5rem;
 }
 
 .border-bottom2 {
@@ -83,22 +84,6 @@ body {
     width: 50%; 
     margin-left: 8rem;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
