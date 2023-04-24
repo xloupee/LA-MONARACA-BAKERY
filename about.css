@@ -21,6 +21,7 @@ body {
     background-color: white;
     padding-bottom: 22px;
     justify-content: space-between;
+    font-weight: bold;
 }
 
 .logo{
@@ -48,7 +49,9 @@ body {
 }
 
 .title {
-    color: rgb(134, 97, 97)
+    color: rgb(134, 97, 97);
+    font-weight: bold;
+    font-size: 4.5rem;
 }
 
 .cards {

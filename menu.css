@@ -26,10 +26,13 @@ body {
     background-color: white;
     padding-bottom: 22px;
     justify-content: space-between;
+    font-weight: bold;
 }
 
 .title {
-    color: rgb(134, 97, 97)
+    color: rgb(134, 97, 97);
+    font-weight: bold;
+    font-size: 4.5rem;
 }
 
 .logo{
@@ -54,9 +57,8 @@ body {
 .menu {
     display: grid;
     justify-items: center;
-    font-size: 2.25rem;
+    font-size: 2.05rem;
     margin-top: 90px;
-   
 }
 
 .menu--ul {
@@ -64,7 +66,7 @@ body {
 }
 
 .menu--ul li{
-    font-size: 1.15rem;
+    font-size: 1.35rem;
     margin-top: 25px;
 }
 

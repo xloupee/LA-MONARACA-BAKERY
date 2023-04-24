@@ -27,10 +27,13 @@ body {
     background-color: white;
     padding-bottom: 22px;
     justify-content: space-between;
+    font-weight: bold;
 }
 
 .title {
-    color: rgb(134, 97, 97)
+    color: rgb(134, 97, 97);
+    font-weight: bold;
+    font-size: 4.5rem;
 }
 
 .logo{
@@ -63,7 +66,7 @@ body {
 .press--image img {
     width: 80%;
     border-radius: 15px;
-    
+    min-width: 400px;
 }
 
 .content {
