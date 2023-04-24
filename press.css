@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+
 * {
     margin: 0;
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.5rem;
 }
 
 body {
@@ -19,14 +24,12 @@ body {
 
 .navbar {
     display: flex;
-    font-family: 'Great Vibes', cursive;
     background-color: white;
     padding-bottom: 22px;
     justify-content: space-between;
 }
 
 .title {
-    font-family: 'Grand Hotel', cursive;
     color: rgb(134, 97, 97)
 }
 
@@ -84,14 +87,6 @@ body {
     width: 50%; 
     margin-left: 8rem;
 }
-
-
-
-
-
-
-
-
 
 
 

@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
 * {
     margin: 0;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 
 
 body {
@@ -21,7 +23,6 @@ body {
 }
 .navbar {
     display: flex;
-    font-family: 'Pacifico', cursive;
     background-color: white;
     padding-bottom: 22px;
     justify-content: space-between;
@@ -48,7 +49,6 @@ body {
 }
 
 .title {
-    font-family: 'Pacifico', cursive;
     color: rgb(134, 97, 97);
     font-size: 2.05rem;
     margin-top: 105px;
@@ -125,7 +125,6 @@ body {
 }
 
 .location--title {
-    font-family: 'Pacifico', cursive;
     color: rgb(102, 75, 75);
     font-size: 1.85rem;
     margin-top: 50px;

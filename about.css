@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+
 * {
     margin: 0;
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.5rem;
 }
 
 body {
@@ -13,7 +18,7 @@ body {
 }
 .navbar {
     display: flex;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Amatic SC', cursive;
     background-color: white;
     padding-bottom: 22px;
     justify-content: space-between;
@@ -44,7 +49,7 @@ body {
 }
 
 .title {
-    font-family: 'Grand Hotel', cursive;
+    font-family: 'Amatic SC', cursive;
     color: rgb(134, 97, 97)
 }
 
@@ -79,7 +84,7 @@ body {
 
 .cards--header {
     font-size: 3rem;
-    font-family: 'Grand Hotel', cursive;
+    font-family: 'Amatic SC', cursive;
     color: rgb(134, 97, 97);
     font-weight: bold;
 }
